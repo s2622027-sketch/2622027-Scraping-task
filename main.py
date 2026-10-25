@@ -100,3 +100,4 @@ finally:
 
     print("巡回したページ数:", len(site_map))
     print("CSVファイル: sitemap.csv")
+# サイトマップの取得結果をCSVファイルに保存
